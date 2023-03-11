@@ -10,3 +10,4 @@ dist
 
 # notes
 .notes
+node_modules/*
